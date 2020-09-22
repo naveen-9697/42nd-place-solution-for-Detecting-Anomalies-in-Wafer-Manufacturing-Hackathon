@@ -8,7 +8,7 @@ link to hackathon: https://www.machinehack.com/hackathons/detecting_anomalies_in
 4. I had learned the presence of skew in the continuous features during my initial data understanding; and treatment of which didn't work and further more results were very very bad.
 5. A LightGBM with some tuned parameters and some that I usually use pushed me up on the leaderboard.
 
-## On leaderboard:
+## On Private leaderboard:
 <img src= ".images/leaderboard-position-screengrab.jpg" title="decimal number on left showing public leaderboard score and right one on private leaderbaord."/>
 
 ## Final Result on Public set:
