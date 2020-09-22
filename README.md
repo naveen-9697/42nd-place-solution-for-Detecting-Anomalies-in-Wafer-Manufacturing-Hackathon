@@ -9,7 +9,7 @@ link to hackathon: https://www.machinehack.com/hackathons/detecting_anomalies_in
 5. A LightGBM with some tuned parameters and some that I usually use pushed me up on the leaderboard.
 
 ## On leaderboard:
-<img src= ".images/leaderboard-position-screengrab.jpg" alt="my postition on leaderboard"/>
+<img src= ".images/leaderboard-position-screengrab.jpg" alt="my postition on leaderboard with left decimal number showing public leaderboard score and right one on private leaderbaord."/>
 
 ## Final Result on Public set:
-AUroC= 0.82997 on test data of MachineHack.
+AUroC= 0.82997 on Private dataset of MachineHack.
